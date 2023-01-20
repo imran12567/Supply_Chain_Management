@@ -1,0 +1,17 @@
+browser chrome
+url http://rmgtestingserver/domain/Supply_Chain_Management/index.php
+un admin
+pwd admin123
+pName Cake123
+price 520
+price2 530
+desc Cake containing Vanilla flavour.
+nameForStock Choco
+quantity 123
+mName Abcd
+mEmail abcd@gmail.com
+mPhone 9999999988
+pName3 Cake12333
+price3 333
+desc3 All are in 3
+unit ml
